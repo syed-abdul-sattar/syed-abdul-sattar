@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Syed Abdul Sattar 👋
 
-<!--
-**syed-abdul-sattar/syed-abdul-sattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student building my foundation in **Python, Data Science, and problem-solving**.
 
-Here are some ideas to get you started:
+I learn by understanding how things work, practicing them, and turning what I learn into projects and practical work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+- Python fundamentals and problem-solving
+- Data Science foundations
+- Data analysis and statistics
+- SQL and working with data
+- Building projects to apply what I learn
+
+🧭 My Approach
+
+**Learn → Understand → Apply → Build → Improve**
+
+I'm documenting my learning journey here through code, projects, experiments, and the lessons I pick up along the way.
+
+🎯 What I'm Working Toward
+
+Building strong foundations in software and data, with the long-term goal of becoming a well-rounded **Data Science professional.
+
+*Always learning. Always building.*
